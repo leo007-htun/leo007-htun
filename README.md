@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sithu.y.htun@gmail.com**
 
-- ⚡ Fun fact ***I AM BATMAN**
+- ⚡ Fun fact ***I AM BATMAN***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
