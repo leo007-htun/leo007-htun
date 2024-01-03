@@ -23,7 +23,7 @@
 
 ---------------------------------------------
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo007-htun&show_icons=true&locale=en&layout=compact" alt="leo007-htun" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo007-htun&show_icons=true&locale=en&layout=compact" alt="leo007-htun" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leo007-htun&show_icons=true&locale=en" alt="leo007-htun" /></p>
 
