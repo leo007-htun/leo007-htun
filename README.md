@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leo007-htun" alt="leo007-htun" /></a> </p>
 
-- 🔭 I’m currently working on integrating LLMs with Pepper Robot <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7142130245121241088" height="943" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7142130245121241088" height="943" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/](https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/)
 
