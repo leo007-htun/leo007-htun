@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leo007-htun" alt="leo007-htun" /></a> </p>
 
-- 🔭 I’m currently working on integrating LLMs with Pepper Robot https://www.linkedin.com/feed/update/urn:li:activity:7142130282849083392/
+- 🔭 Currently working on : Integrating LLMs with Pepper Robot https://www.linkedin.com/feed/update/urn:li:activity:7142130282849083392/
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/](https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/)
+- 📝 write articles on    :[https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/](https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/)
 
-- 📫 How to reach me **sithu.y.htun@gmail.com**
+- 📫 How to reach me      :**sithu.y.htun@gmail.com**
 
-- ⚡ Fun fact ***I AM BATMAN***
+- ⚡ Fun fact             :***I AM BATMAN***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
