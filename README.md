@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leo007-htun" alt="leo007-htun" /></a> </p>
 
-- 🔭 I’m currently working on integrating LLMs with Pepper Robot
+- 🔭 I’m currently working on integrating LLMs with Pepper Robot https://www.linkedin.com/feed/update/urn:li:activity:7142130282849083392/
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/](https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/)
 
