@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm an AI & Robotics Practitioner</h1>
 <h3 align="center">A passionate Roboticist always seeking out for challenges</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leo007-htun&label=Profile%20views&color=0e75b6&style=flat" alt="leo007-htun" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leo007-htun&label=Profile%20views&color=0e75b6&style=flat" alt="leo007-htun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leo007-htun" alt="leo007-htun" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leo007-htun" alt="leo007-htun" /></a> </p>
 
 - 🔭 I’m currently working on integrating LLMs with Pepper Robot https://www.linkedin.com/feed/update/urn:li:activity:7142130282849083392/
 
