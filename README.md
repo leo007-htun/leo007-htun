@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm an AI & Robotics Practitioner</h1>
-<h3 align="center">A passionate Roboticist always seeking out for challenges</h3>
+<h2 align="center">A passionate Roboticist always seeking out for challenges</h3>
+
+
 
 - 🔭 Currently working on : **Integrating LLMs with Pepper Robot**
 
