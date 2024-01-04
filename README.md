@@ -2,10 +2,8 @@
 
 <h2 align="center">A passionate Roboticist always seeking out for challenges</h3>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-  <iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-</div>
-<p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
+![Funny GIF](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+
 
 
 
