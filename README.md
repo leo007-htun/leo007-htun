@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Roboticist always seeking out for challenges</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Funny GIF">
+  <a img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Funny GIF"> </a>
 
 <a href="https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
