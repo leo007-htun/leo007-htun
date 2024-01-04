@@ -18,8 +18,6 @@
 <!--p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=leo007-htun&cc=000&tc=fff&ic=fff&bc=000" alt="leo007-htun" /></p-->
 - 🔭 Currently working on : **Integrating LLMs with Pepper Robot**
 
-- 📫 How to reach me      : **sithu.y.htun@gmail.com**
-
 - ⚡ Fun fact             : ***I AM BATMAN***
 ---------------------------------------------
 
