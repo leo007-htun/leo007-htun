@@ -17,11 +17,10 @@
 ---------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sithu ye htun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithu ye htun" height="30" width="40" /></a>
-<a href="https://kaggle.com/sithu ye htun (leo)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sithu ye htun (leo)" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sithu htun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sithu htun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/sithuhtun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sithuhtun" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucn9vmn6bt9ragadamq4i2lw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucn9vmn6bt9ragadamq4i2lw" height="30" width="40" /></a>
 </p>
-
 ---------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
