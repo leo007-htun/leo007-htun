@@ -31,7 +31,7 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo007-htun&show_icons=true&locale=en&layout=compact" alt="leo007-htun" /></p>
 
-<p align="left"><img align="left" src="https://github-stats-alpha.vercel.app/api?username=leo007-htun&cc=000&tc=fff&ic=fff&bc=000"/></p>
+<p align="left"><src="https://github-stats-alpha.vercel.app/api?username=leo007-htun&cc=000&tc=fff&ic=fff&bc=000"/></p>
 
 
 <!--p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leo007-htun&show_icons=true&locale=en" alt="leo007-htun" /></p-->
