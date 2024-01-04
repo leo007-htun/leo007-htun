@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm an AI & Robotics Practitioner</h1>
+<h1 align="center">Hi 👋, I'm Leo, an AI & Robotics Practitioner</h1>
 <h2 align="center">A passionate Roboticist always seeking out for challenges</h3>
 
 <p align="center">
