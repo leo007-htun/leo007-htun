@@ -14,9 +14,9 @@
 </a>
 </p>
 
-<a href="https://github.com/leo007-htun">
+<!--a href="https://github.com/leo007-htun">
     <img src="https://github-stats-alpha.vercel.app/api?username=leo007-htun&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+</a-->
 
 
 <!--p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=leo007-htun&cc=000&tc=fff&ic=fff&bc=000" alt="leo007-htun" /></p-->
@@ -30,10 +30,10 @@
 
 ---------------------------------------------
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo007-htun&show_icons=true&locale=en&layout=compact" alt="leo007-htun" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo007-htun&show_icons=true&locale=en&layout=compact&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="leo007-htun" /></p>
 
 <!--p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leo007-htun&show_icons=true&locale=en" alt="leo007-htun" /></p-->
-<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=leo007-htun&" alt="leo007-htun" /></p>
+<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=leo007-htun&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="leo007-htun" /></p>
 
 
 
