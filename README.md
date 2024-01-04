@@ -3,13 +3,14 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Funny GIF">
-</p>
+
 <a href="https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:sithu.y.htun@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+</p>
 
 <!--p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=leo007-htun&cc=000&tc=fff&ic=fff&bc=000" alt="leo007-htun" /></p-->
 - 🔭 Currently working on : **Integrating LLMs with Pepper Robot**
