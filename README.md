@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Funny GIF">
 </p>
 
-<p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=leo007-htun&cc=000&tc=fff&ic=fff&bc=000" alt="leo007-htun" /></p>
+<!--p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=leo007-htun&cc=000&tc=fff&ic=fff&bc=000" alt="leo007-htun" /></p-->
 - 🔭 Currently working on : **Integrating LLMs with Pepper Robot**
 
 - 📫 How to reach me      : **sithu.y.htun@gmail.com**
