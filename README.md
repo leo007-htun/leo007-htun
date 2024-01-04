@@ -24,7 +24,7 @@
 
 
 <!--p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=leo007-htun&cc=000&tc=fff&ic=fff&bc=000" alt="leo007-htun" /></p-->
-- 🔭 Currently working on : **Integrating LLMs with Pepper Robot**
+- 🔭 Currently working on : [**Integrating LLMs with Pepper Robot**](https://www.linkedin.com/posts/sithu-ye-htun-1630b11a9_gpt3-pepper-googlespeechrecognition-activity-7142130282849083392-hqfi?utm_source=share&utm_medium=member_desktop)
 
 - ⚡ Fun fact             : ***I AM BATMAN***
 ---------------------------------------------
