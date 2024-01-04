@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://leo007-htun.github.io/">
-    <img src="https://img.shields.io/badge/Website.github-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website.github.io-red?style=flat-square">
 </a>  
 </p>
 
