@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate Roboticist always seeking out for challenges</h3>
 
-![Funny GIF](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+<p align="center">![Funny GIF](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif) </p>
 
 
 
