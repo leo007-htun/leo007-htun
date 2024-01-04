@@ -2,11 +2,11 @@
 <h2 align="center">A passionate Roboticist always seeking out for challenges</h3>
 
 <p align="center">
-  <a img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Funny GIF"> </a>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Funny GIF"> 
 
 <a href="https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
+  
 <a href="mailto:sithu.y.htun@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
