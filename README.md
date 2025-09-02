@@ -63,7 +63,7 @@
 
 <p align="center">
   <!-- Replace the GIF below with a real screenshot or GIF committed to your repo, e.g. ./assets/full_duplex_preview.gif -->
-  <a href="https://com-cloud.cloud">
+  <a href="https://leo007-htun.github.io">
     <img src="./assets/full_duplex_preview.gif" alt="Full-Duplex Assistant preview" width="800">
   </a>
 </p>
