@@ -53,17 +53,17 @@
 <h3 align="center">🎙️ Full-Duplex Assistant — Live Demo</h3>
 
 <p align="center">
-  <a href="https://leo007-htun.github.io/full_duplex_assistant/">
+  <a href="https://com-cloud.cloud">
     <img src="https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?style=for-the-badge&logo=github" alt="Live Demo">
   </a>
-  <a href="https://github.com/leo007-htun/full_duplex_assistant">
+  <a href="https://com-cloud.cloud">
     <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github" alt="Source Code">
   </a>
 </p>
 
 <p align="center">
   <!-- Replace the GIF below with a real screenshot or GIF committed to your repo, e.g. ./assets/full_duplex_preview.gif -->
-  <a href="https://leo007-htun.github.io/full_duplex_assistant/">
+  <a href="https://com-cloud.cloud">
     <img src="./assets/full_duplex_preview.gif" alt="Full-Duplex Assistant preview" width="800">
   </a>
 </p>
