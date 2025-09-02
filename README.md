@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo, an AI & Robotics Practitioner</h1>
-<h2 align="center">A passionate Roboticist always seeking out for challenges</h2>
+<h2 align="center">A passionate Roboticist always seeking out for challenges (FYI I'm that monkey haha, Hope this makes your day!)</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Funny robot GIF" width="480"/>
