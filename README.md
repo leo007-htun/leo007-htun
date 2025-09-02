@@ -16,7 +16,10 @@
     <img alt="Website" src="https://img.shields.io/badge/Website-github.io-red?style=flat-square">
   </a>
 </p>
-
+<!-- Center this; remove align="left" -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leo007-htun&langs_count=10&layout=compact&theme=dark" alt="Top languages"/>
+</p>
 
 
 
