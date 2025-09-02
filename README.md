@@ -6,16 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:sithu.y.htun@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://leo007-htun.github.io/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-github.io-red?style=flat-square">
-  </a>
+  
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sithu-ye-htun-1630b11a9/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sithu.y.htun@gmail.com)
+[![Website](https://img.shields.io/badge/Website-github.io-red?style=flat-square)](https://leo007-htun.github.io/)
+
 </p>
+
 
 
 <hr/>
