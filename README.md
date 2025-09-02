@@ -56,7 +56,7 @@
   <a href="https://com-cloud.cloud">
     <img src="https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?style=for-the-badge&logo=github" alt="Live Demo">
   </a>
-  <a href="https://com-cloud.cloud">
+  <a href="https://leo007-htun.github.io/full_duplex_assistant/">
     <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github" alt="Source Code">
   </a>
 </p>
